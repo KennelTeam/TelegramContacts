@@ -1,2 +1,2 @@
 # TelegramContacts
-Client norm
+Client sobaka
